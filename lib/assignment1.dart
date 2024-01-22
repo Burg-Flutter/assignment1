@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
 
-void main(){
-  runApp(const assignment2());
-}
 
-class assignment2 extends StatelessWidget{
-  const assignment2({super.key});
+
+class assignment1 extends StatelessWidget{
+  const assignment1({super.key});
 
   Widget build(BuildContext context){
     return Scaffold(
